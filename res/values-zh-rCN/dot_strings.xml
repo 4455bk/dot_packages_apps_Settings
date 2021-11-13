@@ -143,27 +143,10 @@
     <string name="increasing_ring_ramp_up_time_title">铃声渐强时长</string>
     <string name="top_level_connectivity">连通性</string>
     <string name="top_level_personalize">个性化</string>
-    <string name="top_level_security">@string/security_settings_title</string>
     <string name="top_level_others">其它</string>
-    <string name="smallest_tick_label">关闭</string>
-    <string name="greatest_tick_label">半屏</string>
-    <string name="gesture_back_deadzone_label">死区</string>
-    <string name="back_sensitivity_dialog_message_cust">\n使用第一和第二项滑动条来配置手势滑动灵敏度, 最后一项滑动条用来设置死区, 也就是不能触发手势的屏幕区域, 以避免与应用内的手势冲突.</string>
-    <string name="security_settings_face_require_swipe">滑动来解锁</string>
-    <string name="security_settings_face_require_swipe_summary">在锁屏界面向上滑动以使用人脸解锁</string>
-    <string name="face_unlock_method_title">锁屏界面允许人脸解锁</string>
-    <string name="face_unlock_method_default">当亮屏时</string>
-    <string name="face_unlock_method_swipe">当在锁屏界面向上滑动时</string>
-    <string name="dot_battery_manager">电池管理</string>
-    <string name="dot_battery_manager_summary1">• 省电模式 : </string>
-    <string name="dot_battery_manager_summary2">\n• 后台自适应 : </string>
-    <string name="backup_transport_setting_label">更改备份提供者</string>
-    <string name="backup_transport_title">选择备份提供者</string>
-    <string name="battery_stats_reset">清空耗电记录?</string>
-    <string name="battery_stats_message">电池消耗记录将会丢失</string>
-    <string name="battery_stats_clear" translatable="false">@string/proxy_clear_text</string>
-    <string name="legacy_wfd_video_mode_title">视频模式</string>
-    <string name="wake_when_plugged_or_unplugged_title">充电唤醒</string>
-    <string name="wake_when_plugged_or_unplugged_summary">当手机连接/断开充电时唤醒屏幕</string>
-    <string name="screenshot_sound_title">截图音效</string>
+    <string name="security_settings_face_require_swipe">向上滑动以解锁</string>
+    <string name="security_settings_face_require_swipe_summary">在锁屏界面上向上滑动以使用面部解锁</string>
+    <string name="face_unlock_method_title">允许在锁定屏幕使用面部解锁</string>
+    <string name="face_unlock_method_default">当屏幕开启时</string>
+    <string name="face_unlock_method_swipe">在锁屏界面上滑动时</string>
 </resources>
