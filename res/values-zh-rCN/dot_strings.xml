@@ -37,8 +37,8 @@
     <string name="security_settings_fingerprint_enroll_find_sensor_message_right" product="tablet">指纹传感器位于平板右侧</string>
     <string name="selinux_status">SELinux 状态</string>
     <string name="selinux_status_disabled">已禁用</string>
-    <string name="selinux_status_permissive">Permissive</string>
-    <string name="selinux_status_enforcing">Enforcing</string>
+    <string name="selinux_status_permissive">许可</string>
+    <string name="selinux_status_enforcing">强制</string>
     <string name="storage_card_title">存储空间</string>
     <string name="storage_card_info">已使用</string>
     <string name="about_device_rom_title">DotOS %s</string>
@@ -46,6 +46,8 @@
     <string name="binfo_stats">统计信息</string>
     <string name="dot_customizer_dashboard_title">自定义设置</string>
     <string name="dot_customizer_dashboard_summary">使用 DotOS 自定义您的用户体验</string>
+    <string name="dot_gaming_mode_dashboard_title">游戏模式</string>
+    <string name="dot_gaming_mode_dashboard_summary">让您专注于游玩游戏</string>
     <string name="dot_about_device_info">法律信息</string>
     <string name="dot_about_device_private">隐私信息</string>
     <string name="dot_lightMode">浅色主题</string>
@@ -54,7 +56,7 @@
     <string name="connected_tws_device_saved_title">已保存的耳机</string>
     <string name="mobile_data_settings_summary_unavailable">没有可用的 SIM 卡</string>
     <string name="unlock_scramble_pin_layout_title">打乱布局</string>
-    <string name="unlock_scramble_pin_layout_summary">解锁手机时打乱PIN布局</string>
+    <string name="unlock_scramble_pin_layout_summary">解锁手机时打乱 PIN 布局</string>
     <string name="statusbar_tuner_title">状态栏调整</string>
     <string name="security_settings_face_settings_footer_custom">人脸解锁让您可以通过查看设备来解锁设备。 请记住：\n\n● 您的设备可能会在您看到它时随时解锁。\n● 其他人可以在您睁开眼睛时将其放在您的面前解锁。\n● 您的设备也可能被长得像您的人解锁，例如孩子或孪生同胞。</string>
     <string name="security_settings_face_settings_remove_dialog_details_custom">人脸解锁功能记录的数据将被永久安全删除。删除后，您将需要使用 PIN、图案或密码来解锁您的手机。</string>
@@ -143,4 +145,25 @@
     <string name="top_level_personalize">个性化</string>
     <string name="top_level_security">@string/security_settings_title</string>
     <string name="top_level_others">其它</string>
+    <string name="smallest_tick_label">关闭</string>
+    <string name="greatest_tick_label">半屏</string>
+    <string name="gesture_back_deadzone_label">死区</string>
+    <string name="back_sensitivity_dialog_message_cust">\n使用第一和第二项滑动条来配置手势滑动灵敏度, 最后一项滑动条用来设置死区, 也就是不能触发手势的屏幕区域, 以避免与应用内的手势冲突.</string>
+    <string name="security_settings_face_require_swipe">滑动来解锁</string>
+    <string name="security_settings_face_require_swipe_summary">在锁屏界面向上滑动以使用人脸解锁</string>
+    <string name="face_unlock_method_title">锁屏界面允许人脸解锁</string>
+    <string name="face_unlock_method_default">当亮屏时</string>
+    <string name="face_unlock_method_swipe">当在锁屏界面向上滑动时</string>
+    <string name="dot_battery_manager">电池管理</string>
+    <string name="dot_battery_manager_summary1">• 省电模式 : </string>
+    <string name="dot_battery_manager_summary2">\n• 后台自适应 : </string>
+    <string name="backup_transport_setting_label">更改备份提供者</string>
+    <string name="backup_transport_title">选择备份提供者</string>
+    <string name="battery_stats_reset">清空耗电记录?</string>
+    <string name="battery_stats_message">电池消耗记录将会丢失</string>
+    <string name="battery_stats_clear" translatable="false">@string/proxy_clear_text</string>
+    <string name="legacy_wfd_video_mode_title">视频模式</string>
+    <string name="wake_when_plugged_or_unplugged_title">充电唤醒</string>
+    <string name="wake_when_plugged_or_unplugged_summary">当手机连接/断开充电时唤醒屏幕</string>
+    <string name="screenshot_sound_title">截图音效</string>
 </resources>
