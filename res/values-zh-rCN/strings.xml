@@ -4982,4 +4982,5 @@
     <string name="min_refresh_rate_title">最低刷新率</string>
     <string name="max_refresh_rate_title">最高刷新率</string>
     <string name="status_deep_sleep">(深度睡眠: %1$d%2$s)</string>
+    <string name="wifi_type_title">技术标准</string>
 </resources>
